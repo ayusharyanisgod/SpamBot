@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="./resources/logo.jpg" alt="BOT-SPAM Logo">
-</p>
-<h1 align="center">
-  <b>ʀɪᴢᴏᴇʟ X sᴘᴀᴍ</b>
-</h1>
 
 [![Forks](https://img.shields.io/github/forks/MrRizoel/Spambot?style=flat-square&color=orange)](https://github.com/MrRizoel/Spambot/fork)
 [![Python](https://img.shields.io/badge/Python-v3.9.7-blue)](https://www.python.org/)
