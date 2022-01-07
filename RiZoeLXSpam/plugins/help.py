@@ -5,11 +5,11 @@ from time import time
 from datetime import datetime
 from RiZoeLXSpam import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/9acc785291052c8f8998d.jpg"
+HELP_PIC = "https://telegra.ph/file/e929a1981f83e19159e07.jpg"
 
-Riz_Help = "🔥 𝗥𝗜𝗭𝗢𝗘𝗟 𝗫 𝗦𝗣𝗔𝗠 🔥\n\n"
+Riz_Help = "🔥 Anonymus Spammer 🔥\n\n"
  
-Riz_Help += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ʀɪᴢᴏᴇʟ x sᴘᴀᴍ__\n\n"
+Riz_Help += f"__ᴄᴍᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ Anonymus Spammer\n\n"
 
 Riz_Help += f" ↧ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙲𝙼𝙳𝚂 ↧\n\n"
 
@@ -23,7 +23,7 @@ Riz_Help += f" ↧ 𝚂𝙿𝙰𝙼 𝙲𝙼𝙳𝚂 ↧\n\n"
 
 Riz_Help += f" `.raid` - to raid\n `.replyraid` - to active reply raid\n `.dreplyraid` - to de-active reply raid\n `.spam` - this cmd use for Normal spam\n `.bigspam` - this cmd use for big spam\n `.uspam` - this cmd use for unlimited Spam until You restart the bots!!\n `.delayspam` - this cmd use for delay spam\n\n"
 
-Riz_Help += f"© @RiZoeLX | @DNHxHELL\n"
+Riz_Help += f"© @AnonymusHu_Bot\n"
 
 
 @Riz.on(events.NewMessage(incoming=True, pattern=r"\%shelp(?: |$)(.*)" % hl))
@@ -34,10 +34,10 @@ async def help(event):
                                   caption=Riz_Help,
                                   buttons=[
         [
-        Button.url("ᴀʟʟ ᴄᴍᴅs", "https://telegra.ph/%F0%9D%97%A5%F0%9D%97%9C%F0%9D%97%AD%F0%9D%97%A2%F0%9D%97%98%F0%9D%97%9F-%F0%9D%97%AB-%F0%9D%97%A6%F0%9D%97%A3%F0%9D%97%94%F0%9D%97%A0-11-28-2")
+        Button.url("ᴀʟʟ ᴄᴍᴅs", "https://t.me/AnonymusHu_Bot")
         ],
         [
-        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/RiZoeLX")
+        Button.url("ᴄʜᴀɴɴᴇʟ", "https://t.me/AnonymusHu_Bot")
         ] 
         ]
         )                                                         
